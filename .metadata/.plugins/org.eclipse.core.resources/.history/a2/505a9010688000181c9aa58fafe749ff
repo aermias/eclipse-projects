@@ -1,0 +1,5 @@
+package com.aermias.endpoints;
+
+public class ActorEndpoint {
+
+}

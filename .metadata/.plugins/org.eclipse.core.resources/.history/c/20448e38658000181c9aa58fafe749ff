@@ -1,0 +1,5 @@
+package com.aermias.repository;
+
+public interface ActorRepository {
+
+}
